@@ -181,5 +181,14 @@
     "completed_at": 1787320110.31586,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787320782.720601,
+    "completed_at": 1787320786.731734,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
   }
 ]
