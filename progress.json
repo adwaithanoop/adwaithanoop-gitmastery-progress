@@ -361,5 +361,15 @@
       "You are missing some merges"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787774264.705814,
+    "completed_at": 1787774268.725672,
+    "comments": [
+      "You cannot use fast forwarding on feature/login when merging.",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
